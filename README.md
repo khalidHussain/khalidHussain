@@ -28,6 +28,8 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhalidhussain&count_bg=%2395DF5D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
 <a href="https://github.com/khalidHussain">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khalidHussain&theme=buefy&show_icons=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalidHussain&theme=buefy&layout=compact" />
